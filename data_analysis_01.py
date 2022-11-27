@@ -51,7 +51,7 @@ def plot_emp_data():
                 workplace_ages.append(employee['Age'])
         #ages_per_workplace.append(workplace_ages)
         title = "Age distribution at " + workplace
-        plot_age_distribution(workplace_ages, title)
+        #plot_age_distribution(workplace_ages, title)
 
     #durchschnittsalter an jedem workplace
 
